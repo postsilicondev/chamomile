@@ -26,7 +26,7 @@ console-subscriber = "0.4"
 hex = "0.4"
 quinn = "0.10"
 quinn-proto = "0.10"
-rand_chacha = "0.3"
+rand_chacha = "0.9"
 rand_core = "0.6"
 rcgen = "0.11"
 rustls = { version = "0.21", features = ["dangerous_configuration"] }
