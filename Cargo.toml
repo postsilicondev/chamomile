@@ -27,7 +27,7 @@ quinn = "0.10"
 quinn-proto = "0.10"
 rand_chacha = "0.3"
 rand_core = "0.6"
-rcgen = "0.11"
+rcgen = "0.13"
 rustls = { version = "0.21", features = ["dangerous_configuration"] }
 secp256k1 = { version = "0.30", features = ["recovery", "rand"] }
 serde = { version = "1.0", features = ["derive"] }
