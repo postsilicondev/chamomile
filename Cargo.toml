@@ -6,12 +6,11 @@ members = [
 resolver = "2"
 
 [workspace.package]
-version = "0.11.1"
-edition = "2021"
-authors = ["Dev <dev@cympletech.com>"]
+version = "0.11.2"
+edition = "2024"
+authors = ["Dev <hi@postsilicon.dev>"]
 readme = "README.md"
-homepage = "https://cympletech.com"
-repository = "https://github.com/cympletech/chamomile"
+repository = "https://github.com/postsilicondev/chamomile"
 categories = ["network-programming", "web-programming"]
 keywords = ["distributed", "blockchain", "p2p", "libp2p", "peer-to-peer"]
 description = "Another P2P Library. Support IoT devices."
